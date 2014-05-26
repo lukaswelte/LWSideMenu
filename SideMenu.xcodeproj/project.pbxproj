@@ -37,7 +37,7 @@
 		628B70727DAF923B0AAB9688 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		628B708E36C5343EE7375521 /* LWSideMenuController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LWSideMenuController.m; sourceTree = "<group>"; };
 		628B70F4DD4B8DEC402CD2F1 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		628B71A63F42B75341A13097 /* LWSideMenuControllerTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LWSideMenuControllerTest.m; path = ../SideMenuTests/LWSideMenuControllerTest.m; sourceTree = "<group>"; };
+		628B71A63F42B75341A13097 /* LWSideMenuControllerTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LWSideMenuControllerTest.m; sourceTree = "<group>"; };
 		628B75B1C7EB828E178E9675 /* SideMenu-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SideMenu-Prefix.pch"; sourceTree = "<group>"; };
 		628B75C44C981411782995EA /* LWAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LWAppDelegate.h; sourceTree = "<group>"; };
 		628B76EFE91D7D78364D3251 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
@@ -466,6 +466,7 @@
 				80E8241F1933A72E0091FBCC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
