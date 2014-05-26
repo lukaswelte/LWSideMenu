@@ -1,0 +1,11 @@
+language: objective-c
+before_script:
+  - export LANG=en_US.UTF-8
+before_install:
+  - brew unlink xctool
+  - brew update
+  - brew install xctool
+  - gem update cocoapods
+xcode_project: SideMenu.xcodeproj
+xcode_scheme: SideMenu
+xcode_sdk: iphonesimulator7.0
