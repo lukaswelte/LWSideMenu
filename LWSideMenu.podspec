@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.summary      = "A simple slide in/out side menu using UIKitDynamics"
   s.homepage     = "https://github.com/lukaswelte/LWSideMenu"
   s.author       = { 'Lukas Welte' => 'ich@lukaswelte.de' }
-  s.source       = { :git => "https://github.com/lukaswelte/LWSideMenu.git" }
+  s.source       = { :git => "https://github.com/lukaswelte/LWSideMenu.git", :tag => "0.1" }
   s.source_files =  'LWSideMenu'
   s.requires_arc = true
 end
