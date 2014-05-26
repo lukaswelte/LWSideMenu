@@ -45,6 +45,7 @@
 		628B7832875AAE6B4CB4606C /* LWSideMenuController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LWSideMenuController.h; sourceTree = "<group>"; };
 		628B789F8BFD6DDF714153E1 /* SideMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SideMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		628B78C3E5D1B00E4AE25B8E /* LWSideMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LWSideMenu.h; sourceTree = "<group>"; };
+		628B79D772B4C5BE04708132 /* LWSideMenu.podspec */ = {isa = PBXFileReference; lastKnownFileType = file.podspec; path = LWSideMenu.podspec; sourceTree = "<group>"; };
 		628B7B1A3B61124BCAC2FF0E /* SideMenu-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = "SideMenu-Info.plist"; sourceTree = "<group>"; };
 		628B7BAD9E3F3598E04CB01A /* LWAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LWAppDelegate.m; sourceTree = "<group>"; };
 		628B7C47E645BE2F54CCD902 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -119,6 +120,7 @@
 				628B7394A28F77DB92794F97 /* Frameworks */,
 				628B7C779CCC0AF18BE1F7FC /* SideMenu */,
 				628B7CFA826BE9FA837F324C /* .travis.yml */,
+				628B79D772B4C5BE04708132 /* LWSideMenu.podspec */,
 			);
 			sourceTree = "<group>";
 		};
